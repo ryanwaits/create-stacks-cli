@@ -14,23 +14,7 @@ The Create Stacks App CLI is a powerful command-line tool designed to streamline
 
 ## Installation
 
-```bash
-npm install -g create-stacks
-```
-
-Or, if you prefer using Bun:
-
-```bash
-bun install -g create-stacks
-```
-
 ## Usage
-
-To create a new Stacks application, run:
-
-```bash
-npm create stacks
-```
 
 ### Options
 
